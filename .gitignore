@@ -1,3 +1,5 @@
 # ignore all png files
 *.jpg
 receipts/
+# ignore plots
+receipts/plots/
