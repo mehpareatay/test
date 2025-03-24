@@ -1,7 +1,7 @@
 ingredients
 avocado
 * avocado
-*lemon
-*salt
+*3lemon
+*nosalt
 
 onion
